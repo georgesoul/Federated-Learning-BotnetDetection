@@ -1,0 +1,2 @@
+# DGA-Based_BotnetDetection_with_FederatedLearning
+MyThesis_Code
