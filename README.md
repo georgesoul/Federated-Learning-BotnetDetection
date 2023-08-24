@@ -1,4 +1,4 @@
-# DGA-Based_BotnetDetection_with_FederatedLearning
+# ederated-Learning-BotnetDetection
 MyThesis_Code
 
 Check the presentation here:
